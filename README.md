@@ -3,4 +3,8 @@ Extension for the JSCookMenu library (http://jscook.yuanheng.org/JSCookMenu/) to
 
 This basically consists of a script that gives the menu the functionality it needs to comply with WGAC Accessibility rules.
 
-To use it, just import the script right after the JSCookMenu scripts.
+To use it, just import the script right after the JSCookMenu and jQuery scripts.
+
+Depedencies:
+  - JSCookMenu
+  - jQuery
